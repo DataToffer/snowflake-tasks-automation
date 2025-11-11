@@ -231,7 +231,7 @@ Las contribuciones son bienvenidas. Por favor:
 - 🎓 Profesor de Bases de Datos SQL - Máster Data Science UCM
 - 💼 Partner educativo: Ntic Master
 - 🔗 LinkedIn: [linkedin.com/in/juanfersanchez](https://www.linkedin.com/in/juanfersanchez/)
-- 📧 Email: [tu-email@ucm.es]
+- 📧 Email: [juanfs04@ucm.es]
 
 ### Contexto Académico
 
